@@ -43,5 +43,9 @@ Run the script to check for new findings and send notifications:
 python guardduty_notification.py
 The script will detect new findings and send email and Slack notifications if findings are detected.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 Acknowledgements
 This project is inspired by the need to automate AWS GuardDuty notifications and is provided as-is for educational purposes.
